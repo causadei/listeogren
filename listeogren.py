@@ -67,30 +67,37 @@ while True:
             liste.ekle()
             input(d)
         elif sec == "2":
+            print(remove)
             print(s)
             liste.sil()
             input(d)
         elif sec == "3":
+            print(insert)
             print(s)
             liste.basaekle()
             input(d)
         elif sec == "4":
+            print(reverse)
             print(s)
             liste.tercevir()
             input(d)
         elif sec == "5":
+            print(pop)
             print(s)
             liste.isteksil()
             input(d)
         elif sec == "6":
+            print(sort)
             print(s)
             liste.duzgunliste()
             input(d)
         elif sec == "7":
+            print(sortreverse)
             print(s)
             liste.tersliste()
             input(d)
         elif sec == "8":
+            print(clear)
             print(s)
             liste.temizle()
             input(d)
