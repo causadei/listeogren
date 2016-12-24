@@ -1,12 +1,12 @@
 # listeogren
 
-Description
+# Description
 
 Bu program ile listelerin metodlarını öğrenebilir ve uygulayabilirsiniz.
 
 With this program you can learn and apply the methods of lists.
 
-Requirements
+# Requirements
 
 Liste.py ve listeogren.py dosyaları aynı dizinde olmalıdır.
 
